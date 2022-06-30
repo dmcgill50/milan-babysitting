@@ -1,0 +1,13 @@
+{
+	"sitename": "Yax",
+	"navlink1": "Home",
+	"navlink2": "About",
+	"navlink3": [
+		"Services",
+		"Team",
+		"Contact"
+	],
+	"p1_image": "https://picsum.photos/400",
+	"p1_headline": "Milan BabySitting Service",
+	"p1_content": "<p>This is a one stop shop for babysitting services provided by Milan M.</p>"
+}
